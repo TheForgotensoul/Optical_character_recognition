@@ -1,9 +1,11 @@
 import cv2
+from pathlib import Path
 import pytesseract
 
 
 pytesseract.pytesseract.tesseract_cmd = r"tesseract/tesseract.exe"
-img = cv2.imread("test.jpg")
+img = Path(input("Enter the location of the file > "))
+img = cv2.imread(f"{img}")
 img = cv2.resize(img, (800, 600))
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
