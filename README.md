@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Object detection in Real time, from video footage and from images using pre-trained models. This repository is completed buit using Opencv and python 3.8.
+> Optical_character_recognition, from images using pre-trained models. This repository is completed built using Opencv, pytesseract and python 3.8.
 
 ### 🏠 [Homepage](https://github.com/TheForgotensoul/Optical_character_recognistion)
 
