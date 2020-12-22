@@ -43,7 +43,11 @@ For Mac and Linux run this command
 
 ### ✨ [Demo](https://github.com/TheForgotensoul/Object_detection_python)
 
-![pic_0]()
+![pic_1](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/1.png)
+![pic_2](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/2.png)
+![pic_3](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/3.png)
+![pic_4](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/4.png)
+![pic_5](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/5.png)
 
 
 ## Author
