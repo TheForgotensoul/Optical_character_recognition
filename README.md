@@ -47,7 +47,7 @@ For Mac and Linux run this command
 ![pic_2](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/2.png)
 ![pic_3](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/3.png)
 ![pic_4](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/4.png)
-![pic_5](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/5.png)
+![pic_5](https://raw.githubusercontent.com/TheForgotensoul/Optical_character_recognition/main/doc_img/5.jpg)
 
 
 ## Author
